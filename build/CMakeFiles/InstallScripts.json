@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vad/Graph-Displayer/build/cmake_install.cmake",
+		"/home/vad/Graph-Displayer/build/_deps/glfw-build/cmake_install.cmake",
+		"/home/vad/Graph-Displayer/build/_deps/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
